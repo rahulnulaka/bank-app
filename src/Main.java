@@ -12,7 +12,6 @@ public class Main {
 
 	        // add money
 	        System.out.println(VivekAcc.addMoney(100000));
-
 	        // withdraw
 	        System.out.println(VivekAcc.withdrawMoney(200000,"vivek123"));
 	        System.out.println(VivekAcc.withdrawMoney(50000,"vivek123"));
