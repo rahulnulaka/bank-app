@@ -4,7 +4,7 @@ public class Main {
 		// HDFCAccount VivekAcc = new HDFCAccount("Vivek", "vivek123", 2000);
 		SBI rahul = new SBI("rahul", "Rahul123", 20000);
 
-		System.out.println(rahul); // printed the attricutes via toString
+		System.out.println(rahul); // printed the attributes via toString
 
 		// fetch balance
 		System.out.println(rahul.fetchBalance("random")); // wrong password
